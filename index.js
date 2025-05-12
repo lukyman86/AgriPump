@@ -1,0 +1,1 @@
+// JS untuk aplikasi React
